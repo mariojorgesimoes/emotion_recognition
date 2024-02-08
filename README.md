@@ -13,3 +13,5 @@ identified, namely anger, disgust, fear, happiness,
 sadness, surprise and neutral, through the analysis
 of a dataset of photographs that contain facial expressions
 representing these same emotions.
+
+USE fer2013 dataset: https://www.kaggle.com/datasets/msambare/fer2013
